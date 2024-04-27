@@ -26,7 +26,7 @@ both residents and visitors. Nonetheless, ensuring safer travel necessitates a c
 
  
 
-![Figure 1: Vision Zero Street Improvement Projects (since 2014)](sips-since-2014-vzopen.pdf)
+![Figure 1: Vision Zero Street Improvement Projects (since 2014)](sips-since-2014-vzopen.png)
 
 
 # A Manheim, Florian, and Gaudry’s Framework for Transportation Systems Analysis
