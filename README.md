@@ -28,18 +28,14 @@ Numerous initiatives, including the National Roadway Safety Strategy (U.S. DOT, 
 
 # A Manheim, Florian, and Gaudry’s Framework for Transportation Systems Analysis
 
-Manheim, Florian, and Gaudry’s Framework for Transportation Systems Analysis encompasses
-several crucial components, each contributing to a comprehensive understanding pedestrian
-safety within high-risk intersections in New York City.
+Manheim, Florian, and Gaudry’s Framework for Transportation Systems Analysis encompasses several crucial components, each contributing to a comprehensive understanding pedestrian safety within high-risk intersections in New York City. Figure 2 shows a diagram of the framework used (Manheim, 1980).
+
+![MFG framework](mfg-framework.png)
+
 
 ## Study area
 
-The study zeroes in on New York City intersections with a documented history of
-high crash prevalence. The selection of these intersections is informed by data from the Vision
-Zero Viewfinder, an interactive platform enabling citizens to monitor the implementation and
-impact of Vision Zero solutions. If more focus is needed, borough distinctions will be made
-(Manhattan, Brooklyn), in addition to a focus on only intersections where crashes have been
-observed.
+The study zeroes in on New York City intersections with a documented history of high crash prevalence. The selection of these intersections is informed by data from the Vision Zero Viewfinder, an interactive platform enabling citizens to monitor the implementation and impact of Vision Zero solutions. If more focus is needed, borough distinctions will be made (Manhattan, Brooklyn), in addition to a focus on only intersections where crashes have been observed.
 
 ## Activity System
 
@@ -73,3 +69,4 @@ The study area focuses on intersections with a history of high crash prevalence,
 4. Vision Zero Network. (2021, December 7). Vision Zero Network [website]. https://visionzeronetwork.org/
 5. Mukherjee, D., & Mitra, S. (2020). Identification of Pedestrian Risk Factors Using Negative Binomial Model. Transportation in Developing Economies, 6(1), 4. https://doi.org/10.1007/s40890-019-0092-6
 6. Qu, D., Li, H., Liu, H., Wang, S., & Zhang, K. (2022). Crosswalk Safety Warning System for Pedestrians to Cross the Street Intelligently. Sustainability: Science Practice and Policy, 14(16), 10223. https://doi.org/10.3390/su141610223
+7. Manheim, M. L. (1980). Understanding “supply” in transportation systems. Transportation Research, 14(2), 119–135. https://doi.org/10.1016/0191-2607(80)90111-9
