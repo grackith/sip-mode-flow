@@ -24,11 +24,9 @@ all road users, fostering the creation of more pedestrian-friendly urban landsca
 infrastructure conducive to active transportation modes like walking and biking. These policies are crafted with the overarching goal of elevating the health, safety, and overall quality of life for
 both residents and visitors. Nonetheless, ensuring safer travel necessitates a comprehensive grasp of exposure data, encompassing factors such as increased pedestrian traffic, unsafe driving speeds, and pedestrian path behavior, coupled with insights into pedestrian injury counts. The Vision Zero project in New York City has pioneered an interactive online tracker, empowering citizens to monitor the city's ongoing efforts to eradicate road fatalities. Noteworthy among the metrics presented on this portal are the Street Improvement Projects initiated in 2009. Defined as safety-focused engineering enhancements incorporating various treatments like signals, markings, and concrete modifications to both corridors and intersections, these improvements are strategically aimed at organizing traffic, enhancing travel times, creating shorter and safer pedestrian crossings, and establishing secure routes for bicycle travel. This proposal seeks to identify the potential of the Vision Zero Street Improvement Project initiative to mitigate road fatalities. Figure 1 provides a visual representation of the locations that have witnessed improvements, forming a backdrop for the proposed investigation. Figures 2 and 3 show the corridors and intersections, respectively, that are in the 85th percentile for observed crash rates. Through this research, we aim to contribute valuable insights that can inform future safety interventions and refine countermeasure approaches in alignment with the dynamic patterns observed in urban environments. 
 
-Figure 1: Vision Zero Street Improvement Projects (since 2009) 
+ 
 
-Figure 2: NYC corridors in the 85% percentile of observed crash rates (2022).
-
-Figure 3: NYC intersections in the 85% percentile of observed crash rates (2022).
+![Figure 1: Vision Zero Street Improvement Projects (since 2014)](sips-since-2014-vzopen.png)
 
 
 # A Manheim, Florian, and Gaudry’s Framework for Transportation Systems Analysis
