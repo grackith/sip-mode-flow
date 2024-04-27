@@ -24,8 +24,6 @@ Numerous initiatives, including the National Roadway Safety Strategy (U.S. DOT, 
 ![Figure 1: Vision Zero Street Improvement Projects (since 2014)](sips-since-2014-vzopen.png?raw=TRUE "Figure 1: Vision Zero Street Improvement Projects (since 2014)")
 
 
-
-
 # A Manheim, Florian, and Gaudry’s Framework for Transportation Systems Analysis
 
 Manheim, Florian, and Gaudry’s Framework for Transportation Systems Analysis encompasses several crucial components, each contributing to a comprehensive understanding pedestrian safety within high-risk intersections in New York City. Figure 2 shows a diagram of the framework used (Manheim, 1980).
@@ -47,19 +45,47 @@ Trip demand or number of road users observed at NYC intersections by location an
 3. Pedestrian/cyclist counts
 4. Crash counts?
 
+Attributes influence the choices relevant to answering RQ. The choices in the RQ would be:
+
+- Mode choice: pedestrian, cyclist, motorized
+- Route choice: navigate or not through street improvement project intersections (ideally we could monitor specific use of street improvement project solutions - VRU facility usage, transit ridership through - new multimodal lane,,, brainstorming)
+- Location choice: intersections selected for Vision Zero Street improvement projects
+- Improvement choice: speed limit decrease, increased multimodal lanes
+- Attributes can be alternative-specific:
+- Available facilities (crosswalk vs bikelanes vs signalized/unsignalized)
+- Road infrastructure for potential improvement projects - not all intersections can support the same solutions
+
+... and individual-specific:
+- Demographics of surrounding road users
+
+
 ## Transport System 
 
-A detailed examination of road space utilization and infrastructure characteristics is conducted. This exploration forms the basis for crafting recommendations aimed at enhancing pedestrian safety. Key factors considered include roadway width (Mukherjee, 2020), sidewalk width (Chen and Zhou, 2016), and crosswalk facility types (Munira et al., 2020). All of these factors have been shown to highly impact occurrence and injury severity of pedestrian-related collisions.
+A detailed examination of road space utilization and infrastructure characteristics is conducted. This exploration forms the basis for crafting recommendations aimed at enhancing pedestrian safety. Key factors considered include roadway width (Mukherjee, 2020), sidewalk width (Chen and Zhou, 2016), and crosswalk facility types (Munira et al., 2020). All of these factors have been shown to highly impact occurrence and injury severity of pedestrian-related collisions. This could be measured by:
+
+- Intersection/road traffic flow capacities
+- Regulation: peds & vehicle signage, signalization, right-of-way policies
+- ?? Street improvement options? improvements that are candidates for Vision Zero (i.e., road user facilities)
 
 ## Demand Procedure
 
-The study incorporates a model to pinpoint intersections where Vision Zero should implement a Street Improvement Project. By assessing changes in crash counts at locations where these projects have been previously executed, the research aims to estimate future crash likelihoods. The predictive model factors in street width, sidewalk width, and crosswalk facility types, offering insights into potential mitigation strategies for pedestrian- vehicle hotspots.
+But instead of the individual survey data to capture individual choices, i would use observation survey data, for example, bi-annual manual pedestrian counts from NY Open Data. I actually think this could be classified as revealed preference (RP) data, as we learned about today. Similar data is available on vehicles from the Traffic Data Viewer : 
+- Vehicle volume, classification, and speed data
+- Annual Average Daily Traffic (AADT)
+- Truck AADT and Truck Percentage
+- Location of historical short count sites
+
+Historical data is also available from both ped/veh sources, meaning I could compare ped/cycl/veh flows/counts/demand at/for certain locations between various time periods. I would select locations that have undergone Vision Zero Street Improvement Projects, and time periods that correspond to before/after the improvement project. I could, for example, model trip generation or mode choice (by intersection)? like transport demand would be with the market demand function, with a zonal activity system? (you provided the equation for auto demand on urban corridor - lecture 3, slide 32).
 
 ## Market Equilibration 
 
 Through simulations, crashes are analyzed within identified Stree Improvement Project areas. The impact of implemented safety measures, including street width, sidewalk width, and crosswalk facility types, is considered. This phase aims to gauge the effectiveness of these interventions in reducing crash occurrences. System Flows: Crash counts at intersections in Manhattan and Brooklyn are documented, along with a record of Vision Zero Street Improvement Projects at these locations. This comprehensive data set establishes connections between crash occurrences, past safety measures, and potential travel patterns. The goal is to enhance the overall understanding of multimodal traffic flows at high-risk intersections.
 
-Upon the development of the model, the simulation becomes a powerful tool to estimate the impact of proposed Street Improvement Project solutions on crash likelihoods. This iterative process provides a robust framework for refining and implementing targeted safety measures, contributing to the overarching goal of improving multimodal road user safety within urban environments.
+## System Flows
+
+- Traffic flow through NYC intersections
+- Crash count by NYC intersections
+- ?? Changes/improvements completed on intersections by Vision Zero
 
 ## Conclusion
 
