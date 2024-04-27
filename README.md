@@ -37,7 +37,7 @@ Manheim, Florian, and Gaudry’s Framework for Transportation Systems Analysis e
 several crucial components, each contributing to a comprehensive understanding pedestrian
 safety within high-risk intersections in New York City.
 
-## Study area: 
+## Study area
 
 The study zeroes in on New York City intersections with a documented history of
 high crash prevalence. The selection of these intersections is informed by data from the Vision
