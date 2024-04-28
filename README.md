@@ -22,9 +22,16 @@ In the period spanning 2020 to 2021, an alarming 13% surge in pedestrian fatalit
 Numerous initiatives, including the National Roadway Safety Strategy (U.S. DOT, 2022) andprograms like Vision Zero (New York City, 2017), have been orchestrated to enhance safety for all road users, fostering the creation of more pedestrian-friendly urban landscapes. Cities worldwide are embracing innovative policies to alleviate vehicle congestion and develop infrastructure conducive to active transportation modes like walking and biking. These policies are crafted with the overarching goal of elevating the health, safety, and overall quality of life for both residents and visitors. Nonetheless, ensuring safer travel necessitates a comprehensive grasp of exposure data, encompassing factors such as increased pedestrian traffic, unsafe driving speeds, and pedestrian path behavior, coupled with insights into pedestrian injury counts. The Vision Zero project in New York City has pioneered an interactive online tracker, empowering citizens to monitor the city's ongoing efforts to eradicate road fatalities. Noteworthy among the metrics presented on this portal are the Street Improvement Projects initiated in 2009. Defined as safety-focused engineering enhancements incorporating various treatments like signals, markings, and concrete modifications to both corridors and intersections, these improvements are strategically aimed at organizing traffic, enhancing travel times, creating shorter and safer pedestrian crossings, and establishing secure routes for bicycle travel. This proposal seeks to identify the potential of the Vision Zero Street Improvement Project initiative to mitigate road fatalities. Figure 1 provides a visual representation of the locations that have witnessed improvements, forming a backdrop for the proposed investigation. 
 
 <div style="display: flex; flex-direction: row;">
-    <img src="sips-filtered-manbr.png?raw=TRUE" alt="Figure 1: Vision Zero Street Improvement Projects (since 2014)" title="Figure 1: Vision Zero Street Improvement Projects (since 2014)" style="width: 45%;">
-    <img src="traffic-viewer.png?raw=TRUE" alt="Figure 2: Traffic Viewer of Manhattan and Brooklyn" title="Figure 2: Traffic Viewer of Manhattan and Brooklyn" style="width: 45%;">
+    <figure style="width: 45%;">
+        <img src="sips-filtered-manbr.png?raw=TRUE" alt="" title="Figure 1: Vision Zero Street Improvement Projects (since 2014)" style="width: 100%;">
+        <figcaption style="text-align: center;">Figure 1: Vision Zero Street Improvement Projects (since 2014)</figcaption>
+    </figure>
+    <figure style="width: 45%;">
+        <img src="traffic-viewer.png?raw=TRUE" alt="" title="Figure 2: Traffic Viewer of Manhattan and Brooklyn" style="width: 100%;">
+        <figcaption style="text-align: center;">Figure 2: Traffic Viewer of Manhattan and Brooklyn</figcaption>
+    </figure>
 </div>
+
 
 
 # A Manheim, Florian, and Gaudry’s Framework for Transportation Systems Analysis
