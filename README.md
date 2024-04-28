@@ -31,6 +31,15 @@ Manheim, Florian, and Gaudry’s Framework for Transportation Systems Analysis e
 ![MFG framework](mfg-framework.png?raw=TRUE "Figure 2: Manheim, Florian, and Gaudry Framework")
 
 
+Topic chosen: what is the design/policy question you want to answer?
+What are your performance measures F?
+What is your underlying data (A,T,E) (should focus on NYC as your Living Lab)
+What data are you missing that you might need to collect?
+What is your system (use what your team knows – P,D,X) –don’t need precise details at
+this stage
+Demand procedure D should be behavioral (what choices are being made?)
+
+
 ## Study area
 
 The study zeroes in on New York City intersections with a documented history of high crash prevalence. The selection of these intersections is informed by data from the Vision Zero Viewfinder, an interactive platform enabling citizens to monitor the implementation and impact of Vision Zero solutions. If more focus is needed, borough distinctions will be made (Manhattan, Brooklyn), in addition to a focus on only intersections where crashes have been observed.
@@ -74,6 +83,8 @@ But instead of the individual survey data to capture individual choices, i would
 - Annual Average Daily Traffic (AADT)
 - Truck AADT and Truck Percentage
 - Location of historical short count sites
+
+
 
 Historical data is also available from both ped/veh sources, meaning I could compare ped/cycl/veh flows/counts/demand at/for certain locations between various time periods. I would select locations that have undergone Vision Zero Street Improvement Projects, and time periods that correspond to before/after the improvement project. I could, for example, model trip generation or mode choice (by intersection)? like transport demand would be with the market demand function, with a zonal activity system? (you provided the equation for auto demand on urban corridor - lecture 3, slide 32).
 
